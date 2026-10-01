@@ -22,10 +22,6 @@
 
 - <b>Network Security Audit, Vulnerability Management & IDS Deployment</b>
   - [Active Directory GPO Hardening, Snort IDS, Nessus & Hashcat Audit](https://github.com/martinkahowera/NetworkSecurityAudit-CySA-/tree/main)
-- <b>Digital Forensics & Incident Response (DFIR)</b>
-  - [Windows Registry Forensics: SAM Hive RIDs, NTUSER.DAT & UserAssist Triage](https://github.com/martinkahowera/Cybersecurity-Labs/tree/main/TryHackMe/Intro-to-Digital-Forensics)
-- <b>Host-Based Artifact Analysis & Tooling</b>
-  - [Metadata Extraction Scripts & Forensic Artifact Parsing](https://github.com/martinkahowera/Cybersecurity-Labs/tree/main/Labs/forensics)
 
 ---
 
